@@ -6,7 +6,8 @@ body, html {
     min-width: 320px;
     margin-left: auto;
     margin-right: auto;
-    height: 100vh
+    height: 100vh;
+    background-color: #FBFAF8;
 }
 
 
@@ -102,4 +103,5 @@ img {
     padding: 72px;
     height: 480px;
     width: 1039px;
+    background-color: #ffffff;
 }
